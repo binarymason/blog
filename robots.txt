@@ -1,1 +1,1 @@
-Sitemap: https://binarymason.github.io/blog/sitemap.xml
+Sitemap: http://meep.blog/sitemap.xml
