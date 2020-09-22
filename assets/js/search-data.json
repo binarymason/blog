@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "It works",
-            "content": "print(&quot;hello world&quot;) . hello world . . yay .",
+            "content": "print(&quot;hello world&quot;) . hello world . . yay . .",
             "url": "http://meep.blog/test/2020/09/21/it-works.html",
             "relUrl": "/test/2020/09/21/it-works.html",
             "date": " • Sep 21, 2020"
